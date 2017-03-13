@@ -66,4 +66,9 @@ class ArrayIns
         return first;
 
     }
+    public long getItem(int i){
+        long item = a[i];
+        return item;
+
+    }
 }// end class ArrayIns
